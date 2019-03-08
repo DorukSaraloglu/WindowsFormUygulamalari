@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-TextboxOperations", "WindowsFormUygulamalari\1-TextboxOperations.csproj", "{2B6E7EEE-2B0D-4583-A25C-3E230870F795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-EventOrder", "EventOrder\2-EventOrder.csproj", "{53F8CFA5-D6F8-4E7A-879F-7159EA8576F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-ColorChangeInForm", "FormdaRenkDegistirme\3-ColorChangeInForm.csproj", "{3A71B517-956A-422B-B716-76B415A5D4D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-FormDataProcessing", "FormDataProcessing\4-FormDataProcessing.csproj", "{40A569BE-A4ED-43F0-9980-6D76E7C20CCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-ParameterTransitionBetweenForms", "5-ParameterTransitionBetweenForms\5-ParameterTransitionBetweenForms.csproj", "{67E69E66-E061-4DD6-8EF2-167DE0FEBEEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B6E7EEE-2B0D-4583-A25C-3E230870F795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6E7EEE-2B0D-4583-A25C-3E230870F795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6E7EEE-2B0D-4583-A25C-3E230870F795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6E7EEE-2B0D-4583-A25C-3E230870F795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F8CFA5-D6F8-4E7A-879F-7159EA8576F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F8CFA5-D6F8-4E7A-879F-7159EA8576F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F8CFA5-D6F8-4E7A-879F-7159EA8576F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F8CFA5-D6F8-4E7A-879F-7159EA8576F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A71B517-956A-422B-B716-76B415A5D4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A71B517-956A-422B-B716-76B415A5D4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A71B517-956A-422B-B716-76B415A5D4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A71B517-956A-422B-B716-76B415A5D4D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A569BE-A4ED-43F0-9980-6D76E7C20CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A569BE-A4ED-43F0-9980-6D76E7C20CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A569BE-A4ED-43F0-9980-6D76E7C20CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A569BE-A4ED-43F0-9980-6D76E7C20CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E69E66-E061-4DD6-8EF2-167DE0FEBEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E69E66-E061-4DD6-8EF2-167DE0FEBEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E69E66-E061-4DD6-8EF2-167DE0FEBEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E69E66-E061-4DD6-8EF2-167DE0FEBEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B0871E9-C7F2-4954-AE39-F402EA513D6B}
+	EndGlobalSection
+EndGlobal
